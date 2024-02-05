@@ -100,7 +100,7 @@
               "src/assets"
             ],
             "styles": [
-              "@angular/material/prebuilt-themes/indigo-pink.css",
+              "@angular/material/prebuilt-themes/deeppurple-amber.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -110,6 +110,6 @@
     }
   },
   "cli": {
-    "analytics": "7c9dfdfc-2ea7-4cc2-957f-c2ca663ebe60"
+    "analytics": "53b0dfcd-d5ef-4ac3-a7e5-e75f5add7745"
   }
 }
